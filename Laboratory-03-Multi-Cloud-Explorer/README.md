@@ -36,8 +36,12 @@ These cloud services provide virtual machines that can run Linux operating syste
 
 ## Screenshot
 
-<img width="1263" height="571" alt="image" src="https://github.com/user-attachments/assets/1c4d747f-57f0-488a-b960-0d47c72ba288" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b91c4de-33fc-44e3-a357-db820b4a0ae9" />
 
 
-<img width="1257" height="570" alt="image" src="https://github.com/user-attachments/assets/0f795055-06f5-45ef-8b3a-6787b5240004" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/400190f8-3bc4-4f0f-97d9-dd17717c6849" />
+
+<img width="1467" height="195" alt="image" src="https://github.com/user-attachments/assets/4c86f4e6-839d-4545-94c7-64a08c8da906" />
+
 
